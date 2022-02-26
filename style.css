@@ -62,6 +62,7 @@ i{
     margin: 7%;
     border-radius: 20px;
     box-shadow: 5px 12px 10px 3px rgb(31, 105, 94);
+    overflow: auto;
 }
 .services{
     height: 500px;
@@ -93,6 +94,7 @@ span{
     height: 600px;
     float: right;
     margin-top: -25%;  
+    overflow: auto;
 }
 .star{
     color: rgb(201, 201, 24);
