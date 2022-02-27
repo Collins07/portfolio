@@ -143,3 +143,34 @@ h4{
         font: bold;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    img {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        float: right;
+    }
+    .image1{
+        margin-top: -40%;  
+        overflow: auto;
+    }
+    .p3{
+        font-size: 9px;
+        text-align: center;
+    }
+    .design,.dev{
+        border: 1px solid rgb(44, 148, 132);
+        height:40vh;
+        width: 35%;
+        margin: 7%;
+        border-radius: 20px;
+        box-shadow: 5px 12px 10px 3px rgb(31, 105, 94);
+        overflow: auto;
+    }
+  }
+  
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+    .example {background: green;}
+  }
