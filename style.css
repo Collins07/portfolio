@@ -69,17 +69,13 @@ i{
     display: flex;
 }
 img{
-    width: 500px;
-    height: 500px;
+    width: 50vh;
+    height: 50vh;
     border-radius: 50%;
     float: right;
 }
 span{
     color:  rgb(41, 139, 125) ;
-}
-.row{
-    margin-top: 5%;
-    margin-left: 10%;
 }
 .col-4{
     padding: 10px;
@@ -129,7 +125,7 @@ h4{
 }
 .row{
  margin-left: 15%;
- width: 65%;
+ width: 75%;
  background-color: rgb(41, 139, 125);
  border-radius: 2%;
  opacity: 100%;
