@@ -6,7 +6,7 @@
 
 + [Description](#description)
 + [List of areas of expertise](#List-of-areas-of-expertise)
-+ [Works in progress (activities and projects)](#Work-in-progress-(activities and projects))
++ [Works in progress (activities and projects)](#Work-in-progress-(activities-and-projects)-)
 + [Samples of my work from academic and internship settings](#Samples-of-my-work-from-academic-and-internship-settings)
 + [Resume, references, transcripts, letters of recommendation](#Resume,-refrences,-transcripts,-letters-of-recommendation)
 + [Certificates, diplomas, licenses, awards, letters of appreciation I received](#Certifcates,-diplomas,-licenses,-awards,-letters-of-appreciation-I-received)
@@ -41,15 +41,18 @@
 
 [Go Back to the top](#Portfolio)
 ### Resume, references, transcripts, letters of recommendation
+(........................................)
 
 
 ### Certificates, diplomas, licenses, awards, letters of appreciation I received
+(........................................)
 
 
 ### Professional memberships 
 <p> Not yet a member of any proffesional societies yet</p>
 
 ### Links to websites, web pages and blogs I have created
+(........................................)
 
 
 
