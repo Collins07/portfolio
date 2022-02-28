@@ -166,7 +166,29 @@ h4{
     }
   }
   
-  /* Small devices (portrait tablets and large phones, 600px and up) */
-  @media only screen and (min-width: 600px) {
-    .example {background: green;}
+  /* Small devices (portrait tablets and large phones, 600px up to 1100px) */
+  @media only screen and (min-width: 600px) and (max-width: 1100px){
+    img {
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        float: right;
+    }
+    .image1{
+        margin-top: -30%;  
+        overflow: auto;
+    }
+    .p3{
+        font-size: 9px;
+        text-align: center;
+    }
+    .design,.dev{
+        border: 1px solid rgb(44, 148, 132);
+        height:40vh;
+        width: 35%;
+        margin: 7%;
+        border-radius: 20px;
+        box-shadow: 5px 12px 10px 3px rgb(31, 105, 94);
+        overflow: auto;
+    } 
   }
